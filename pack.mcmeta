@@ -1,0 +1,9 @@
+{
+    "pack": {
+        "pack_format": 12,
+        "description": "包的描述",
+            "min_inclusive": 17,
+            "max_inclusive": 34
+        }
+    }
+}
